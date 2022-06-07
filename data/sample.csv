@@ -1,0 +1,17 @@
+RunnyNose,Cough,SoreThroat,BodyAchesPain,Fatigue,CongestionSinusesOrLungs,Fever,DifficultyBreathing,Headache,ChestPain,Nosebleeds,IrregularHeartRhythms,VisionChanges,BuzzingOfEars,Nausea,Vomiting,Bloating,AbdominalPain,IrregularStool,ProlongedDiarrhea,FrequentUrinationOrFeelingOfUrinating,BloodyUrine,PainWhileUrinating,PressureOrCramingInGroin,WeightLoss,NightSweats,LossOfAppetite,NeckSwellingPain,Dizziness,HeartAttack,Palpitations,Diseases
+N,Y,Y,Y,N,N,N,N,Y,N,N,Y,Y,N,N,N,Y,N,N,N,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,BronchitisBronchiolitis
+N,Y,Y,Y,N,N,N,Y,Y,Y,N,Y,Y,N,N,Y,N,Y,Y,Y,N,N,N,Y,N,N,N,Y,Y,Y,Y,BronchitisBronchiolitis
+Y,Y,N,Y,N,N,N,N,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,Y,N,Y,Y,N,N,Influenza
+Y,N,N,N,Y,Y,Y,N,Y,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,Y,Y,N,N,AcuteWateryDiarrhea
+N,N,Y,Y,N,N,Y,Y,N,N,N,Y,N,N,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,AcuteWateryDiarrhea
+N,Y,Y,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,Hypertension
+Y,Y,N,N,N,N,N,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,N,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N,AcuteRespiratoryInfection
+N,Y,N,Y,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,Y,N,Y,N,N,Y,TBRespiratory
+Y,N,Y,Y,Y,Y,Y,N,N,N,Y,N,N,Y,Y,N,Y,Y,N,N,N,N,Y,Y,N,N,Y,Y,Y,N,N,BronchitisBronchiolitis
+N,Y,Y,N,Y,N,Y,Y,N,Y,Y,N,Y,N,N,Y,N,Y,N,N,N,N,N,Y,N,Y,Y,Y,N,N,N,AcuteLowerRespiratoryTractInfectionAndPneumonia
+Y,N,N,Y,N,Y,Y,N,Y,N,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,N,Y,N,N,Y,N,Y,AcuteWateryDiarrhea
+N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,Y,Y,N,N,N,N,N,Y,N,Y,Y,Y,Y,TBRespiratory
+N,N,Y,N,N,N,N,N,Y,N,Y,N,N,Y,N,Y,N,N,Y,Y,Y,N,N,N,Y,Y,Y,N,N,N,N,UrinaryTractInfection
+N,Y,N,N,N,N,N,N,Y,Y,N,N,N,Y,Y,N,Y,Y,N,N,N,Y,N,N,N,N,Y,N,Y,N,Y,DiseaseOfTheHeart
+Y,N,N,N,N,N,N,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,Y,N,DiseaseOfTheHeart
+N,N,Y,Y,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,Y,N,N,N,N,Y,Y,N,Y,N,N,N,N,Injuries
