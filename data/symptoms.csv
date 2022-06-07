@@ -1,11 +1,11 @@
-Runny nose,Cough,Sore throat,Body aches/pain,Fatigue,Congestion (sinuses or lungs),Fever,Difficulty breathing,Headache,Chest Pain,Nosebleeds,Irregular heart rhythms,Vision changes,Buzzing of ears,Nausea,Vomiting,Bloating,Abdominal pain,Irregular stool,Prolonged diarrhea,Frequent urination or feeling of urinating,Bloody urine,Pain while urinating,Pressure or craming in groin,Weight loss,Night sweats,Loss of appetite,Neck swelling/pain,Dizziness,Heart attack,Palpitations,Diseases
-Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Acute Respiratory Infection
-N,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Acute Lower Respiratory Tract Infection and Pneumonia
-N,Y,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Bronchitis/Bronchiolitis
+RunnyNose,Cough,SoreThroat,BodyAchesPain,Fatigue,CongestionSinusesOrLungs,Fever,DifficultyBreathing,Headache,ChestPain,Nosebleeds,IrregularHeartRhythms,VisionChanges,BuzzingOfEars,Nausea,Vomiting,Bloating,AbdominalPain,IrregularStool,ProlongedDiarrhea,FrequentUrinationOrFeelingOfUrinating,BloodyUrine,PainWhileUrinating,PressureOrCramingInGroin,WeightLoss,NightSweats,LossOfAppetite,NeckSwellingPain,Dizziness,HeartAttack,Palpitations,Diseases
+Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,AcuteRespiratoryInfection
+N,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,AcuteLowerRespiratoryTractInfectionAndPneumonia
+N,Y,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,BronchitisBronchiolitis
 N,N,N,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,Hypertension
-N,N,N,N,N,N,Y,N,N,N,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Acute Watery Diarrhea
+N,N,N,N,N,N,Y,N,N,N,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,AcuteWateryDiarrhea
 Y,Y,Y,Y,Y,Y,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Influenza
-N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,N,N,N,N,Urinary Tract Infection
-N,Y,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,TB Respiratory
+N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,N,N,N,N,UrinaryTractInfection
+N,Y,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,TBRespiratory
 N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Injuries
-N,N,N,N,N,N,N,Y,N,Y,N,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,Disease of the Heart
+N,N,N,N,N,N,N,Y,N,Y,N,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,DiseaseOfTheHeart
